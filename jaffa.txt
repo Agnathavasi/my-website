@@ -1,3 +1,0 @@
-#Jaffa File
-. jaffa
-. jaffa
